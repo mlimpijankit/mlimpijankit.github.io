@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Marvin (Richie) Limpijankit"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "New York, NY"
+  employer         : "Columbia University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ml4431@columbia.edu"
 
   # Academic websites
   academia         : # URL
