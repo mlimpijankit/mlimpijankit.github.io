@@ -405,16 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-workshop-paper-accepted-to-icwsm-2024",
+          title: 'Workshop paper accepted to ICWSM 2024!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-paper-accepted-to-inlg-2025",
+          title: 'Paper accepted to INLG 2025!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-starting-my-phd-in-computer-science-at-columbia",
+          title: 'Starting my PhD in Computer Science at Columbia!',
           description: "",
           section: "News",},{
         id: 'social-email',
