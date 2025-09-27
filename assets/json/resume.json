@@ -45,7 +45,8 @@
       "area": "Computer Science",
       "studyType": "BS",
       "startDate": "2019-09",
-      "endDate": "2023-05"
+      "endDate": "2023-05",
+      "courses": ["Spring '23, Fall '22: TA for COMS 4771 Machine Leaning w/ Prof. Verma", ""]
     }
   ],
   "work": [
