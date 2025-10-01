@@ -51,6 +51,7 @@
       "name": "Counterfactual Simulatability of LLM Explanations for Generation Tasks",
       "publisher": "International Natural Language Generation Conference (INLG 25)",
       "releaseDate": "2025-10",
+      "location": "Hanoi, VN",
       "url": "https://arxiv.org/abs/2505.21740",
       "summary": "Extended counterfactual simulatability, a framework to evaluate explanation quality, to LLMs for two generation tasks: news summarization and medical suggestion. Our proposed method measures how well an explanation allows human users to accurately infer the model's output on unseen but related counterfactual inputs."
     },
