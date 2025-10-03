@@ -36,14 +36,14 @@
       "position": "Data Engineer Intern",
       "startDate": "2022-05",
       "endDate": "2022-08",
-      "highlights": ["Content Data Solutions team, managing watch and content data for Disney+, Hulu, and ESPN", "Troubleshooted and optimized ETL pipelines in Apache Airflow, accelerating delivery times", "Engineered a pipeline using Databricks to capture social media data for ML models"]
+      "highlights": ["<b> Team: </b> Content Data Solutions", "Optimized ETL pipelines for Disney+, Hulu, and ESPN watch data in Apache Airflow", "Engineered a pipeline using Databricks to capture social media data for ML models"]
     },
     {
       "name": "Agoda",
       "position": "Data Scientist Intern",
       "startDate": "2021-05",
       "endDate": "2021-08",
-      "highlights": ["Customer Experience Group (CEG)", "Applied ML techniques (clustering, K-D trees) on user data and booking logs to identify personas and predict cancellations", "Handled data requests using SQL, Tableau"]
+      "highlights": ["<b> Team: </b> Customer Experience Group (CEG)", "Applied ML techniques (clustering, K-D trees) on user data and booking logs to identify personas and predict cancellations", "Handled data requests using SQL, Tableau"]
     }
   ],
   "publications": [
