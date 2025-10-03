@@ -12,7 +12,8 @@
       "location": "New York, US",
       "studyType": "MS in Computer Science",
       "startDate": "2023-09",
-      "endDate": "2025-05"
+      "endDate": "2025-05",
+      "courses":["<b> Research Advisor: </b> Kathleen McKeown"]
     },
     {
       "institution": "Columbia University",
@@ -20,7 +21,7 @@
       "studyType": "BS in Computer Science",
       "startDate": "2019-09",
       "endDate": "2023-05",
-      "courses": ["<b> Courses TA'd: </b> <ul> \n <li> COMS 4771 Machine Learning w/ Prof. Nakul Verma (S'23, F'22) </li>\n  <li> CSEE 3827 Fundamentals of Computer Systems w/ Prof. Dan Rubenstein (S'22) </li>\n  <li>COMS 3203 Discrete Math w/ Prof. Dan Rubenstein (F'22)</li>\n</ul>"]
+      "courses": ["<b> Research Advisor: </b> John R. Kender","<b> Courses TA'd: </b> <ul> \n <li> COMS 4771 Machine Learning w/ Prof. Nakul Verma (S'23, F'22) </li>\n  <li> CSEE 3827 Fundamentals of Computer Systems w/ Prof. Dan Rubenstein (S'22) </li>\n  <li>COMS 3203 Discrete Math w/ Prof. Dan Rubenstein (F'22)</li>\n</ul>"]
     }
   ],
   "work": [
