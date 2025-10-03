@@ -26,21 +26,21 @@
   ],
   "work": [
     {
-      "name": "IBM",
+      "name": "<b> IBM </b>",
       "position": "Data Scientist, NLP",
       "startDate": "2023-06",
       "endDate": "2025-05",
       "highlights": ["<b> Team: </b> Expert Labs", "Enterprise AI solutions including LLM-based applications, retrieval augmented generation (RAG), and conversational assistants", "Collaborated with IBM Research to improve IBM Granite models from client feedback"]
     },
     {
-      "name": "Disney Streaming",
+      "name": "<b> Disney Streaming </b>",
       "position": "Data Engineer Intern",
       "startDate": "2022-05",
       "endDate": "2022-08",
       "highlights": ["<b> Team: </b> Content Data Solutions", "Optimized ETL pipelines for Disney+, Hulu, and ESPN watch data in Apache Airflow", "Engineered a pipeline using Databricks to capture social media data for ML models"]
     },
     {
-      "name": "Agoda",
+      "name": "<b> Agoda </b>",
       "position": "Data Scientist Intern",
       "startDate": "2021-05",
       "endDate": "2021-08",
