@@ -20,7 +20,7 @@
       "studyType": "BS in Computer Science",
       "startDate": "2019-09",
       "endDate": "2023-05",
-      "courses": ["Spring '23, Fall '22: TA for COMS 4771 Machine Leaning w/ Prof. Verma", ""]
+      "courses": ["Spring '23, Fall '22: TA for COMS 4771 Machine Leaning w/ Prof. Verma", "<ul>\n  <li>First item</li>\n  <li>Second item</li>\n  <li>Third item</li>\n</ul>"]
     }
   ],
   "work": [
@@ -29,7 +29,7 @@
       "position": "Data Scientist, NLP",
       "startDate": "2023-06",
       "endDate": "2025-05",
-      "highlights": ["<b> IBM Expert Labs </b>", "Enterprise AI solutions including LLM-based applications, retrieval augmented generation (RAG), and conversational assistants", "Collaborated with IBM Research to improve IBM Granite models from client feedback"]
+      "highlights": ["<b> Team: </b> Expert Labs", "Enterprise AI solutions including LLM-based applications, retrieval augmented generation (RAG), and conversational assistants", "Collaborated with IBM Research to improve IBM Granite models from client feedback"]
     },
     {
       "name": "Disney Streaming",
