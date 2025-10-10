@@ -18,7 +18,7 @@ I was previously a data scientist at IBM 👁 🐝 Ⓜ️ for 2 years, working o
 - **[Sept. 2025]** Starting my PhD in Computer Science at Columbia!
 - **[Aug. 2025]** Paper accepted to INLG 2025!
 - **[May. 2024]** Workshop paper accepted to ICWSM 2024!
-- **[Jun. 2023]** Joining IBM Expert Labs as an NLP Data Scientist!
+- **[Jun. 2023]** Joining IBM Expert Labs as an NLP Data Scientist
 
 ## Teaching
 
