@@ -3,10 +3,18 @@ main:
   - title: Counterfactual Simulatability of LLM Explanations for Generation Tasks
     authors: Marvin Limpijankit, Yanda Chen, Melanie Subbiah, Nicholas Deas, Kathleen McKeown
     conference_short: INLG
-    conference: International Natural Language Generation Conference, 2025.
+    conference: International Natural Language Generation Conference (INLG), 2025.
     pdf: https://arxiv.org/pdf/2505.21740.pdf
     code: https://github.com/mlimpijankit/counterfactual-simulatability-generation-tasks
     image: ./assets/img/limpijankit2025counterfactual.png
+
+  - title: Detecting Cultural Differences in News Video Thumbnails via Computational Aesthetics
+    authors: Marvin Limpijankit, John R. Kender
+    conference_short: ICWSM
+    conference: International AAAI Conference on Web and Social Media (ICWSM), 2024.
+    pdf: https://arxiv.org/pdf/2505.21912.pdf
+    image: ./assets/img/limpijankit2025detecting.png
+    notes: <a href="https://example.com">Website</a>
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
