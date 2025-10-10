@@ -4,16 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi 👋! I am a first-year Computer Science PhD student in the NLP lab at Columbia University under Prof. [Kathy McKeown](https://www.cs.columbia.edu/~kathy/). 
+
+I was previously a data scientist at IBM 👁 🐝 Ⓜ️ for 2 years, working on applied AI/NLP in the [Expert Labs](https://www.ibm.com/products/expertlabs) group. Before that, I received my BS in Computer Science from Columbia SEAS'23 🦁, where I researched computational methods (CV, NLP) for studying news media with Prof. [John R. Kender](https://www.cs.columbia.edu/~jrk/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Interpretability for VLMs:** meta-learning, incremental learning, transfer learning
+- **Vision Tokens:** what do vision tokens
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2025]** Starting my PhD in Computer Science at Columbia!
+- **[Aug. 2025]** Paper accepted to INLG 2025!
+- **[May. 2024]** Workshop paper accepted to ICWSM 2024!
+- **[Jun. 2023]** Joining IBM Expert Labs as an NLP Data Scientist!
