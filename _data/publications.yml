@@ -11,18 +11,15 @@ main:
   - title: Detecting Cultural Differences in News Video Thumbnails via Computational Aesthetics
     authors: <strong> Marvin Limpijankit </strong>, John R. Kender
     conference_short: ICWSM
-    conference: International AAAI Conference on Web and Social Media (ICWSM), 2024.
+    conference: Workshop \@ International AAAI Conference on Web and Social Media (ICWSM), 2024.
     pdf: https://arxiv.org/pdf/2505.21912.pdf
     image: ./assets/img/limpijankit2025detecting.png
     notes: <a href="https://example.com">Website</a>
 
-  - title: "Does the United Nations need agents? Testing the role of AI agent generated personas in humanitarian action"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: Does the United Nations need agents? Testing the role of AI agent generated personas in humanitarian action
+    authors: Eduardo Albrecht, <strong> [Acknowledgements] </strong>
+    conference_short: UNU
+    conference: United Nations University.
+    pdf: https://www.rivista.ai/wp-content/uploads/2025/07/Working_Paper_AI_Agents.pdf
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
