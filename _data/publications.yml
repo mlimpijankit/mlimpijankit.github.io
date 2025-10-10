@@ -1,7 +1,7 @@
 main:
 
   - title: Counterfactual Simulatability of LLM Explanations for Generation Tasks
-    authors: Marvin Limpijankit, Yanda Chen, Melanie Subbiah, Nicholas Deas, Kathleen McKeown
+    authors: <strong> Marvin Limpijankit </strong>, Yanda Chen, Melanie Subbiah, Nicholas Deas, Kathleen McKeown
     conference_short: INLG
     conference: International Natural Language Generation Conference (INLG), 2025.
     pdf: https://arxiv.org/pdf/2505.21740.pdf
@@ -9,14 +9,14 @@ main:
     image: ./assets/img/limpijankit2025counterfactual.png
 
   - title: Detecting Cultural Differences in News Video Thumbnails via Computational Aesthetics
-    authors: Marvin Limpijankit, John R. Kender
+    authors: <strong> Marvin Limpijankit </strong>, John R. Kender
     conference_short: ICWSM
     conference: International AAAI Conference on Web and Social Media (ICWSM), 2024.
     pdf: https://arxiv.org/pdf/2505.21912.pdf
     image: ./assets/img/limpijankit2025detecting.png
     notes: <a href="https://example.com">Website</a>
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  - title: "Does the United Nations need agents? Testing the role of AI agent generated personas in humanitarian action"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
