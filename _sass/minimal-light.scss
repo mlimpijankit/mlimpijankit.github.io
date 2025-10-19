@@ -7,14 +7,14 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#14a20f!important;
+  color:#FF3621!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #14a20f !important; }}
+@media (prefers-color-scheme: dark) { .social-icons a {color: #FF3621 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -230,18 +230,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#14a20f;
+  color:#FF3621;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#14a20f;
+  color:#FF3621;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#14a20f;
+  color:#FF3621;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -249,11 +249,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#14a20f;
+    color:#FF3621;
   }
 
   h2 {
-    color:#14a20f;
+    color:#FF3621;
   }
 }
 
@@ -270,17 +270,17 @@ h1 {
 }
 
 a {
-  color:#14a20f;
+  color:#FF3621;
   text-decoration:none;
 }
 
 a:hover {
-  color:#0d6b0a;
+  color:#CC2B1A;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:#14a20f;
+    color:#FF3621;
   }
 }
 
@@ -343,11 +343,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color:#14a20f;
+    color:#FF3621;
   }
 
   dt {
-    color:#14a20f;
+    color:#FF3621;
   }
 }
 
@@ -461,7 +461,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
   div.wrapper {
@@ -506,11 +506,11 @@ footer {
   #head1o2 {
     visibility: hidden;
   }
-      
+
   #head2o2 {
     visibility: hidden;
   }
-  
+
 }
 
 @media print, screen and (max-width: 960px) {
@@ -520,7 +520,7 @@ footer {
   }
 
   .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
   header {
@@ -528,7 +528,7 @@ footer {
   }
 
   header ul, header p.view {
-    
+
   }
 
   pre, code {
@@ -539,7 +539,7 @@ footer {
 @media print, screen and (max-width: 480px) {
 
   .pub-row {
-    display: block; 
+    display: block;
     align-items: center;}
 
   body {
@@ -562,7 +562,7 @@ footer {
   #head1o2 {
     visibility: hidden;
   }
-  
+
   #head2o2 {
     visibility: hidden;
   }
