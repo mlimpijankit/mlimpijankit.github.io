@@ -182,6 +182,11 @@ papertitle {
 
 }
 
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
 
   .image {
     border-radius: 0.35em;
@@ -270,17 +275,17 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#14a20f;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#0d6b0a;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color:#14a20f;
   }
 }
 
