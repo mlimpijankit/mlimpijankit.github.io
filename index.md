@@ -10,8 +10,8 @@ I was previously a data scientist at IBM 👁 🐝 Ⓜ️ for 2 years, working o
 
 ## Research Interests
 
-- **Interpretability for VLMs:** concept decomposition, attention-based attribution, vision token analysis
-- **Explainability Evaluation**: evaluation metrics for explanations, plausibility-faithfulness tradeoffs
+- **Interpretability for VLMs:** concept decomposition, attention-based attribution, vision tokens
+- **Explainability Evaluation**: metrics for explanations, plausibility-faithfulness tradeoff
 
 ## News
 
