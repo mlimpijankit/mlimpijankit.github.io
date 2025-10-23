@@ -33,7 +33,7 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --global-theme-color: #FFBD31;
+        --global-theme-color: #009300;
     }
 }
 
