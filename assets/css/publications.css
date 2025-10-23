@@ -23,8 +23,8 @@
     --global-code-bg-color: rgba(181, 9, 172, 0.05);
     --global-text-color: #000000;
     --global-text-color-light: #828282;
-    --global-theme-color: #FF3621;
-    --global-hover-color: #CC2B1A;
+    --global-theme-color: #FFBD31;
+    --global-hover-color: #E6A61C;
     --global-footer-bg-color: #1c1c1c;
     --global-footer-text-color: #e8e8e8;
     --global-footer-link-color: #ffffff;
@@ -33,7 +33,7 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --global-theme-color: #FF3621;
+        --global-theme-color: #FFBD31;
     }
 }
 
