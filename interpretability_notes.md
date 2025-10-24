@@ -2,6 +2,14 @@
 layout: note
 ---
 
+<style>
+@import url('https://cdn.jsdelivr.net/npm/computer-modern@0.1.2/cmu-serif.css');
+
+body {
+  font-family: 'Computer Modern Serif', serif !important;
+}
+</style>
+
 ## <span style="color:#b4321e">Interptability Notes</span>
 
 Here I have some ideas on interp. 
