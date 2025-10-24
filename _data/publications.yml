@@ -1,7 +1,7 @@
 main:
 
   - title: Counterfactual Simulatability of LLM Explanations for Generation Tasks
-    authors: <strong> Marvin Limpijankit </strong>, Yanda Chen, Melanie Subbiah, Nicholas Deas, Kathleen McKeown
+    authors: <strong>Marvin Limpijankit</strong>, Yanda Chen, Melanie Subbiah, Nicholas Deas, Kathleen McKeown
     conference_short: INLG
     conference: International Natural Language Generation Conference (INLG), 2025.
     pdf: https://arxiv.org/pdf/2505.21740.pdf
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/limpijankit2025counterfactual.png
 
   - title: Detecting Cultural Differences in News Video Thumbnails via Computational Aesthetics
-    authors: <strong> Marvin Limpijankit </strong>, John R. Kender
+    authors: <strong> arvin Limpijankit</strong>, John R. Kender
     conference_short: ICWSM
     conference: Workshop @ International AAAI Conference on Web and Social Media (ICWSM), 2024.
     pdf: https://arxiv.org/pdf/2505.21912.pdf
@@ -17,7 +17,7 @@ main:
     notes: <a href="https://drive.google.com/file/d/1Jrpr4f-MZblbMgF04eq1Y9-51ETm6Crn/view?usp=sharing">Workshop Slides</a>
 
   - title: Does the United Nations need agents? Testing the role of AI agent generated personas in humanitarian action
-    authors: Eduardo Albrecht, <strong> [Acknowledgements] </strong>
+    authors: Eduardo Albrecht, <strong>[Acknowledgements]</strong>
     conference_short: UNU
     conference: United Nations University.
     pdf: https://www.rivista.ai/wp-content/uploads/2025/07/Working_Paper_AI_Agents.pdf
