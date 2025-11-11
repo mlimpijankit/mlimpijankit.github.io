@@ -10,11 +10,9 @@ body {
 }
 </style>
 
-## <span style="color:#b4321e">Interptability Notes</span>
+## <span style="color:#b4321e">Interptability Evaluation</span>
 
-Here I have some ideas on interp. 
-
-This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+This is about interp eval.
 
 **The Cauchy-Schwarz Inequality**\
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
