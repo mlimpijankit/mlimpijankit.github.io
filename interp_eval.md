@@ -35,5 +35,5 @@ where $r_{j}$ is the recall, $p_{j}$ is the precision computed at threshold $j$ 
 
 Try multiple modifications on the concept (i.e., multiply the concept by a constant factor) and store the output. Below, R is a vector of the proportion of concept-related outputs for each modification, $R_{0}$ is the baseline where the feature is entirely "zeroed out". If the score is 1, that means manipulating the concept (i.e., some addition of the feature) always results in that feature being in the output.
 
-$$\[ \text{Faithfulness}(\mathbf{R}) = \frac{\max(\max(\mathbf{R}) - R_0, 0)}{1 - R_0} \]$$
+$$ \text{Faithfulness}(\mathbf{R}) = \frac{\max(\max(\mathbf{R}) - R_0, 0)}{1 - R_0} \]$$
 
